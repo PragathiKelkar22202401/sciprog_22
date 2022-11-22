@@ -1,6 +1,6 @@
 # Scientific Programming Concepts PH502/ACM40660 Autumn 2022
 
-Fork this repository into your github account. From there; 
+Fork this repository into your github account. From there;  
 
 - Clone the repo onto your local machine/sciprog using `git clone`
 - Create your own branch using `git branch` with the format `{FirstName}_{LastName}_{Brightspace/Blackboard}`. Eg. `John_Smith_Blackboard`, then use `git checkout branch_name` to work on that branch
